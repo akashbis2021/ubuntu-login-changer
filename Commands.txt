@@ -1,0 +1,7 @@
+
+ sudo ./ubuntu-gdm-set-background --image /home/user/backgrounds/image.jpg
+ sudo ./ubuntu-gdm-set-background --color \#aAbBcC
+ sudo ./ubuntu-gdm-set-background --gradient horizontal \#aAbBcC \#dDeEfF
+ sudo ./ubuntu-gdm-set-background --gradient vertical \#aAbBcC \#dDeEfF
+ sudo ./ubuntu-gdm-set-background --reset
+ ./ubuntu-gdm-set-background --help
